@@ -5,10 +5,12 @@ author: Consensus
 categories: [ Proyecto ARS, conferencias ]
 image: assets/images/11.jpg
 ---
-## Conferencia Internacional del Proyecto ARS
 
 El día 7 de Mayo del 2013 tuvo lugar en la sede de la Fundación Barrié de A Coruña, la Conferencia Internacional del Proyecto ARS de Experimentación e Innovación Social.
 Este Proyecto está subvencionado por el Programa de la Unión Europea para el Empleo y la Solidaridad Social – PROGRESS (2007-2013) y cofinanciado por la Fundación Camiña Social y pretende demostrar que la práctica de actividades creativas es beneficiosa para los menores en situación de riesgo o desprotección y contribuye a la prevención y reducción de los comportamientos antisociales y delictivos.
+
+## Conferencia Internacional del Proyecto ARS
+
 El acto fue inaugurado por la Conselleira de Traballo e Benestar, Dª Beatriz Mato, y el Alcalde, D. Carlos Negreira.
 En la Conferencia intervinieron varios socios europeos procedentes de Bulgaria, Italia y Reino Unido así como Fundaciones y entidades coruñesas que llevan a cabo acciones educativas y de integración a través de distintas manifestaciones artísticas.
 
