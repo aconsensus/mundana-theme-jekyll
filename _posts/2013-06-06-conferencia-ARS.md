@@ -2,8 +2,9 @@
 layout: post
 title:  "Conferencia Internacional del Proyecto ARS"
 author: Consensus
-categories: [ Proyecto ARS, conferencias, featured ]
+categories: [ Proyecto ARS, conferencias]
 image: assets/images/01.jpg
+tags: [featured]
 ---
 
 El día 7 de Mayo del 2013 tuvo lugar en la sede de la Fundación Barrié de **A Coruña**, la **Conferencia Internacional del Proyecto ARS de Experimentación e Innovación Social**.
