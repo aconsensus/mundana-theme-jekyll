@@ -2,7 +2,7 @@
 layout: post
 title:  "Conferencia Internacional del Proyecto ARS"
 author: Consensus
-categories: [ Proyecto ARS, conferencias ]
+categories: [ Proyecto ARS, conferencias, featured ]
 image: assets/images/01.jpg
 ---
 
